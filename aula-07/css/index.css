@@ -1,0 +1,12 @@
+.commentBox{
+	border:1px solid black;
+	width:300px;
+	text-align: center;
+}
+
+.titleBox{
+	border:1px solid red;
+	color: red;
+	width: 300px;
+	text-align: center;
+}
